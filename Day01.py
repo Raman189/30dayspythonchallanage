@@ -1,5 +1,5 @@
 # hello frieds from today 1st jan 2025 i started 30days python challanage 
-# Today I write my first python program 
+# Today I wrote my first python program 
 # The print() function prints the specified message to the screen  
 
 print("Hello World !!")
